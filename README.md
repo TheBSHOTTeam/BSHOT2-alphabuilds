@@ -1,2 +1,2 @@
-# BSHOT2-alphabuilds
-This is where you might be able to see our alpha builds of Bonkshot 2.
+# Bonkshot 2 Alpha Builds
+Hello! This is where we will publish some alpha builds of our game, Bonkshot 2. None is out yet, though
